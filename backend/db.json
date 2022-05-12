@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac pro",
+      "price": 19005.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": 6555.89
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "geladeira",
+      "price": "1913.65",
+      "id": 7
+    },
+    {
+      "name": "geladeira",
+      "price": "1913.65",
+      "id": 8
+    }
+  ]
+}
